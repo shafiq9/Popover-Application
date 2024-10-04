@@ -18,6 +18,10 @@ body{
     text-align: center;
 }
 
+.popover.active{
+    display: block;
+}
+
 .btn{
     display: inline;
     padding: 10px;
